@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonnyvesali
-- 👀 I’m interested in DeFi infrastructure
+- 👀 I’m interested in DeSocial Applications
 - 🌱 I’m currently learning Rust Smart Contracts
 - 💞️ I’m looking to collaborate on DeFi smart contracts
 - 📫 How to reach me sonny.vesali@proton.me
