@@ -1,4 +1,4 @@
-[![Sonny's's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnyvesali)](https://github.com/sonnyvesali/github-readme-stats)
+[![Sonny's's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnyvesali&show_icons=true&theme=dark)](https://github.com/sonnyvesali/github-readme-stats)
 
 - 👋 Hi, I’m @sonnyvesali
 - 👀 I’m interested in DeSocial Applications
