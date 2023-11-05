@@ -1,1 +1,1 @@
-![Sonny's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=sonnyvesali)
+[![Sonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnyvesali)](https://github.com/anuraghazra/github-readme-stats)
